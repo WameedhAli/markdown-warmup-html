@@ -1,7 +1,7 @@
-- (Home page)[#]
-- (Gedachten)[#]
-- (Mijn stad)[#]
-- (Links)[#]
+- Home page
+- Gedachten
+- Mijn stad
+- Links
 Mijn eerste opgemaakte pagina
 Welkom op mijn opgemaakte pagina!
 
