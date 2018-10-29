@@ -27,8 +27,8 @@ markdown-warmup-html
   maar ik weet nog niet wat.
   
   <!-- Onderteken en dateer de pagina, wees beleefd! -->
-  <address>Gemaakt 29 Oct 2018<br>
-    door mijzelf.</address>
+  <h5>Gemaakt 29 Oct 2018<br>
+    door mijzelf.</h5>
   
     </body>
 </html>
