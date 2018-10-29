@@ -65,13 +65,13 @@ p a:hover{
     text-shadow: 1px 1px 1px rgb(5, 165, 165);
     position: relative;
     animation-name: example;
-    animation-duration: 6s;
+    animation-duration: 6s ;
     
 }
 
 @keyframes example {
-    0%   { left:-90px; top:0px;}
-    25%  { left:20px; top:0px;}
+    0%   {  left:-100px; top:0px;background: white;}
+    25%  {  left:20px; top:0px;background: rgb(5, 165, 165);}
     100% { left:0px; top:0px;}
 }
 #content{
@@ -84,14 +84,14 @@ p a:hover{
     text-align: justify;
 }
 .content_Text{
-margin: 30px auto 30px;
-border-bottom: 1px solid rgba(51, 51, 51, 0.233);
+    margin: 30px auto 30px;
+    border-bottom: 1px solid rgba(51, 51, 51, 0.233);
 }
 .text-indent{
- text-indent: 50px;   
+ text-indent: 25px;   
 } 
 footer{
-  margin-top: 50px;
+    margin-top: 50px;
     padding: 10px;
     text-align: center;
     overflow: hidden;
